@@ -1,6 +1,6 @@
 day1 code
 
 this is some code from developer
+conflict from master
 
 this code added from master branch
-conflict from modify
